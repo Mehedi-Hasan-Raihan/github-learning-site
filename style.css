@@ -1,6 +1,7 @@
-h1{
+#color{
     color:red;
+    font-size: 715%;
     font-family: monospace;
-    font-weight: 600;
-    background-color: darkslategray;
+    text-align: center;
+    background-color: rgb(10, 0, 0);
 }
